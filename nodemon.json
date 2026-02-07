@@ -1,0 +1,12 @@
+{
+  "watch": ["*.js", "routes/**/*.js", "models/**/*.js", "ai/**/*.js"],
+  "ignore": [
+    "node_modules/**",
+    ".git/**",
+    "frontend/**",
+    "*.log",
+    "uploads/**"
+  ],
+  "ext": "js,json",
+  "delay": "2000"
+}

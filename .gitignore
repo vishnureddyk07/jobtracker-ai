@@ -1,0 +1,48 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build
+dist/
+build/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Testing
+coverage/
+.nyc_output/
+
+# Runtime
+.cache/
+tmp/
+temp/
+
+# Development
+.tern-port
+.env.development.local
+
+# Production
+.env.production.local
+
+# Misc
+*.pem
+*.key
+*.crt

@@ -1,0 +1,98 @@
+AMIT KUMAR
+amit.kumar@example.com | +91-9876543212 | linkedin.com/in/amitkumar | github.com/amitkumar
+
+PROFESSIONAL SUMMARY
+Full Stack Developer with 6+ years of experience developing enterprise-level applications. Expert in MERN stack with strong backend expertise in microservices and cloud deployment. Passionate about clean code and best practices.
+
+TECHNICAL EXPERTISE
+Languages: JavaScript, Python, TypeScript, SQL, HTML, CSS
+Frontend: React.js, Next.js, Redux, Material-UI, Bootstrap, Ant Design
+Backend: Node.js, Express.js, Fastify, Django, Flask
+Databases: MongoDB, PostgreSQL, MySQL, Firebase, DynamoDB
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD
+Tools: Git, Linux, Jenkins, GitHub Actions, Terraform, Postman
+
+PROFESSIONAL EXPERIENCE
+
+Lead Full Stack Engineer
+Enterprise Solutions Inc. | Bangalore, India | Jul 2021 - Present
+- Architecture and lead development of microservices-based platform handling 1M+ requests daily
+- Designed and implemented CI/CD pipelines reducing deployment time by 60%
+- Mentored team of 8 developers, conducting technical interviews and code reviews
+- Implemented comprehensive monitoring and logging using ELK stack
+- Tech Stack: React, Node.js, PostgreSQL, Docker, Kubernetes, AWS
+
+Senior Full Stack Developer
+Cloud Tech Startups | Bangalore, India | Feb 2020 - Jun 2021
+- Developed full-stack SaaS application with 50k+ active users
+- Implemented real-time features using WebSockets and Socket.io
+- Optimized database queries and API performance achieving 70% response time improvement
+- Built comprehensive REST and GraphQL APIs
+- Tech Stack: React, Node.js, MongoDB, AWS, GraphQL
+
+Full Stack Developer
+Digital Innovations Ltd. | Pune, India | Aug 2018 - Jan 2020
+- Developed 5+ production applications handling millions of transactions
+- Implemented authentication and authorization using JWT and OAuth 2.0
+- Created automated test suites with 80%+ code coverage
+- Collaborated with cross-functional teams in agile environment
+- Tech Stack: MERN Stack, PostgreSQL
+
+Junior Developer
+Tech Startup | Pune, India | Jun 2017 - Jul 2018
+- Developed features for web and mobile-responsive applications
+- Fixed bugs and optimized code performance
+- Learned and implemented best practices in software development
+
+EDUCATION
+Master of Computer Applications (MCA)
+Pune Institute of Computer Technology | Pune, India | 2017
+
+Bachelor of Computer Science (BCS)
+Pune University | Pune, India | 2015
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Professional (2023)
+- Kubernetes Certified Application Developer (2022)
+- MongoDB Advanced Database Administration (2021)
+
+KEY PROJECTS
+
+AI Job Matching Platform
+- Developed intelligent job recommendation engine using ML and NLP
+- Integrated resume parsing and skill extraction
+- Implemented real-time job alerts and notifications
+- Tech Stack: React, Node.js, Python (ML), MongoDB, AWS
+
+Fintech Payment Gateway Integration
+- Implemented payment processing supporting multiple gateways (Stripe, PayPal, Razorpay)
+- Handled PCI compliance and security requirements
+- Processed 100k+ transactions monthly with 99.99% uptime
+- Tech Stack: Node.js, PostgreSQL, AWS, Docker
+
+Healthcare Data Management System
+- Built HIPAA-compliant data management platform
+- Implemented encryption and security measures
+- Achieved 99.95% system availability
+- Tech Stack: React, Node.js, PostgreSQL
+
+SKILLS SUMMARY
+- Full Stack Development: 6+ years
+- Microservices Architecture: 4+ years
+- Cloud Platforms (AWS): 5+ years
+- Team Leadership: 2+ years
+- Agile/Scrum: 6+ years
+
+LANGUAGES
+- English (Fluent)
+- Hindi (Native)
+- Marathi (Native)
+
+PUBLICATIONS & CONTRIBUTIONS
+- Authored articles on Node.js best practices (Medium: 5k+ followers)
+- Active contributor to open-source projects (500+ GitHub stars)
+- Speaker at tech conferences (TechCrunch Disrupt 2022, JSConf India 2021)
+
+AWARDS
+- Developer of the Year - Enterprise Solutions Inc. (2023)
+- Innovation Excellence Award (2022)

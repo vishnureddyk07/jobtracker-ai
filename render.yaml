@@ -1,0 +1,37 @@
+services:
+  # Backend API Service
+  - type: web
+    name: jobtracker-api
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: MONGODB_URI
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ADZUNA_APP_ID
+        sync: false
+      - key: ADZUNA_APP_KEY
+        sync: false
+    healthCheckPath: /health
+
+  # Frontend Static Site
+  - type: web
+    name: jobtracker-frontend
+    runtime: static
+    plan: free
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/dist
+    envVars:
+      - key: VITE_API_URL
+        value: https://jobtracker-api.onrender.com
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
