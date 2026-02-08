@@ -22,6 +22,12 @@ JobTracker AI helps students and freshers discover and track job opportunities t
 6. **AI Assistant**: Ask questions like "Show remote React jobs" to filter jobs
 
 ## System Architecture
+![workflow](https://github.com/user-attachments/assets/423ed8b2-07d5-43ac-b0e0-d51a4acc5e11)
+
+![workflow (1)](https://github.com/user-attachments/assets/7a56f0a3-3503-457b-a6b1-3b14139f51de)
+
+![workflow (2)](https://github.com/user-attachments/assets/54322cd9-3001-40a9-89ec-ffd8a963ecec)
+
 
 ```
 Frontend (React + Vite)                Backend (Node.js + Fastify)
